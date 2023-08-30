@@ -1,1 +1,1 @@
-#This is my Loacal Repositary.
+# This is my Local Repositary.
